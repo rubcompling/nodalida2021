@@ -196,8 +196,8 @@ andern NN I-PC
 angelanget VVPP O
 . $. O
 
-Auf APPR B-sPP
-die ART I-sPP
+Auf APPR B-sPC
+die ART I-sPC
 mit APPR B-PC
 dem ART I-PC
 letzten NN I-PC
@@ -221,8 +221,8 @@ Königin NN I-NC
 2. CARD B-NC
 Stunden NN I-NC
 darnach PAV B-PC
-in APPR B-sPP
-3. CARD I-sPP
+in APPR B-sPC
+3. CARD I-sPC
 mit APPR B-PC
 8. CARD I-PC
 Pferden NN I-PC
@@ -264,7 +264,7 @@ Es PPER B-NC
 geschahe VVFIN O
 dieses PDAT B-NC
 alles PIS I-NC
-auf APPR B-sPP
+auf APPR B-sPC
 des ART B-NC
 Königs NN I-NC
 Beruf NN B-PC

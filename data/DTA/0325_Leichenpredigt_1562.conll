@@ -11,8 +11,8 @@ der ART I-PC
 ehrlichen ADJA I-PC
 Begrebnis NN I-PC
 / $( O
-Des ART B-sNP
-wolgebornen ADJA I-sNP
+Des ART B-sNC
+wolgebornen ADJA I-sNC
 / $( O
 in APPR B-PC
 Chriſto NE I-PC
@@ -375,8 +375,8 @@ ich PPER B-NC
 euch PPER B-NC
 das ART B-NC
 lob NN I-NC
-dieſes PDAT B-sNP
-Chriſtlichen ADJA I-sNP
+dieſes PDAT B-sNC
+Chriſtlichen ADJA I-sNC
 / $( O
 in APPR B-PC
 Gott NN I-PC
@@ -522,7 +522,7 @@ hat VAFIN O
 Warumb PWAV O
 bin VAFIN O
 ich PPER B-NC
-aus APPR B-sPP
+aus APPR B-sPC
 Mutter NN B-NC
 leib NN B-PC
 auff APPR B-PC

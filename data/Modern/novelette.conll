@@ -305,8 +305,8 @@ Wort NN I-NC
 gibt VVFIN O
 , $, O
 das PRELS B-NC
-eine ART B-sNP
-unabhängige ADJA I-sNP
+eine ART B-sNC
+unabhängige ADJA I-sNC
 , $, O
 über APPR B-PC
 Vieles PIS I-PC
@@ -1433,7 +1433,7 @@ als KOKOM B-NC
 Herr NN I-NC
 einziehen VVINF O
 werde VAFIN O
-in APPR B-sPP
+in APPR B-sPC
 meiner PPOSAT B-NC
 Väter NN I-NC
 Hof NN B-PC
@@ -1647,7 +1647,7 @@ daß KOUS O
 meine PPOSAT B-NC
 Lippen NN I-NC
 sie PPER B-NC
-gegen APPR B-sPP
+gegen APPR B-sPC
 eines ART B-NC
 Menschen NN I-NC
 Ohr NN B-PC

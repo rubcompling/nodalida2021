@@ -6,8 +6,8 @@ Kurtzer ADJA B-NC
 doch ADV I-NC
 gruͤndlicher ADJA I-NC
 Unterricht NN I-NC
-Von APPR B-sPP
-der ART I-sPP
+Von APPR B-sPC
+der ART I-sPC
 jetztmalen ADV B-ADVC
 uͤber APPR B-PC
 Teutſchland NE I-PC
@@ -75,7 +75,7 @@ man PIS B-NC
 Seuche NN I-NC
 von APPR B-PC
 ſich PRF I-PC
-durch APPR B-sPP
+durch APPR B-sPC
 GOttes NN B-NC
 Gnade NN B-PC
 abwenden VVINF O
@@ -156,7 +156,7 @@ Andreaͤ NE I-PC
 1714 CARD B-NC
 . $. O
 
-Nach APPR B-sPP
+Nach APPR B-sPC
 Standes NN B-NC
 Gebuͤhr NN B-PC
 Geſundheit-liebender ADJA B-NC
@@ -739,8 +739,8 @@ nicht PTKNEG B-ADVC
 / $( O
 daß KOUS O
 wir PPER B-NC
-wider APPR B-sPP
-ſeine PPOSAT I-sPP
+wider APPR B-sPC
+ſeine PPOSAT I-sPC
 / $( O
 auff APPR B-PC
 unſere PPOSAT I-PC

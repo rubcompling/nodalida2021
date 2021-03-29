@@ -20,7 +20,7 @@ deme ART I-PC
 himele NN I-PC
 ſint VAFIN O
 . $. O
-zvͦ APPR B-sPP
+zvͦ APPR B-sPC
 den ART B-NC
 hern NN I-NC
 hoczitin NN B-PC
@@ -31,7 +31,7 @@ in APPR B-PC
 (Jerusalem) NE I-PC
 . $. O
 
-durch APPR B-sPP
+durch APPR B-sPC
 dirre PDAT B-NC
 hoczit NN I-NC
 liebi NN B-PC
@@ -109,7 +109,7 @@ behaltin VVINF O
 gebot NN I-NC
 . $. O
 
-an APPR B-sPP
+an APPR B-sPC
 den ART B-NC
 hern NN I-NC
 botin NN B-PC
@@ -190,7 +190,7 @@ er PPER B-NC
 in PPER B-NC
 uon APPR B-PC
 himele NN I-PC
-nach APPR B-sPP
+nach APPR B-sPC
 unſereſ PPOSAT B-NC
 herrin NN I-NC
 úfferte NN B-PC

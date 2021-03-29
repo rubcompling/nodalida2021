@@ -12,7 +12,7 @@ März NN I-NC
 . $. O
 
 Verlag NN B-NC
-der ART B-sNP
+der ART B-sNC
 J. NE B-NC
 G. NE I-NC
 Cotta' NE I-NC
@@ -147,7 +147,7 @@ geschlossen VVPP O
 wird VAFIN O
 . $. O
 
-Das ART B-sNP
+Das ART B-sNC
 zur APPRART B-PC
 Südarmee NN I-PC
 gehörige ADJA B-NC
@@ -218,8 +218,8 @@ zu PTKZU O
 entlassen VVINF O
 . $. O
 
-Die ART B-sNP
-den ART B-sNP
+Die ART B-sNC
+den ART B-sNC
 an APPR B-PC
 Deutschland NE I-PC
 abgetretenen ADJA B-NC
@@ -254,7 +254,7 @@ sollen VMFIN O
 so ADV B-ADVC
 behandelt VVPP O
 werden VAINF O
-wie KOKOM B-sNP
+wie KOKOM B-sNC
 auf APPR B-PC
 Revers NN I-PC
 entlassene ADJA B-NC

@@ -13,8 +13,8 @@ wahren ADJA I-NC
 Evangeliſchen ADJA I-NC
 Kirchen NN I-NC
 / $( O
-ſampt APPR B-sPP
-einigen PIAT I-sPP
+ſampt APPR B-sPC
+einigen PIAT I-sPC
 dahin PAV B-PC
 einfaͤltig ADJD B-PC
 abzweckenden ADJA I-PC
@@ -34,8 +34,8 @@ Franckfurt NE I-PC
 am APPRART B-PC
 Mayn NE I-PC
 ; $. O
-Sampt APPR B-sPP
-angehengten ADJA I-sPP
+Sampt APPR B-sPC
+angehengten ADJA I-sPC
 Zweyer ADJA B-NC
 Chriſtlichen ADJA I-NC
 Theologorum NN I-NC
@@ -79,7 +79,7 @@ Vorſtehern NN I-NC
 und KON O
 Hirten NN B-NC
 / $( O
-Meinen PPOSAT B-sNP
+Meinen PPOSAT B-sNC
 in APPR B-PC
 CHriſto NE I-PC
 JEſu NE I-PC
@@ -255,7 +255,7 @@ wie KOUS O
 das ART B-NC
 Wort NN I-NC
 ſo ADV B-ADVC
-auß APPR B-sPP
+auß APPR B-sPC
 GOttes NN B-NC
 Munde NN B-PC
 gehet VVFIN O
@@ -297,7 +297,7 @@ und KON O
 zuſehen VVINF O
 / $( O
 wie KOUS O
-die ART B-sNP
+die ART B-sNC
 durch APPR B-PC
 ihren PPOSAT I-PC
 dienſt NN I-PC
@@ -406,7 +406,7 @@ erkuͤhnet VVPP O
 in APPR B-PC
 der ART I-PC
 enge NN I-PC
-der ART B-sNP
+der ART B-sNC
 daꝛzu PAV B-PC
 vergoͤnten ADJA B-NC
 zeit NN I-NC
@@ -425,7 +425,7 @@ mich PPER B-NC
 der ART I-PC
 zeit NN I-PC
 Jch PPER B-NC
-durch APPR B-sPP
+durch APPR B-sPC
 GOttes NN B-NC
 Willen NN B-PC
 und KON O
@@ -468,7 +468,7 @@ bejammern VVFIN O
 und KON O
 offt ADV B-ADVC
 einer PIS B-NC
-in APPR B-sPP
+in APPR B-sPC
 deß ART B-NC
 andern PIS I-NC
 Schooß NN B-PC
@@ -718,7 +718,7 @@ dahin PAV B-PC
 / $( O
 ob KOUS O
 nicht PTKNEG B-ADVC
-ein ART B-sNP
+ein ART B-sNC
 zu APPR B-PC
 dieſer PDAT I-PC
 zeit NN I-PC

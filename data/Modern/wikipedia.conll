@@ -17,7 +17,7 @@ Sowetsk NE B-NC
 
 Vereinsgeschichte NN B-NC
 
-Der ART B-sNP
+Der ART B-sNC
 1907 CARD B-NC
 gegründete ADJA B-NC
 Verein NN I-NC
@@ -316,7 +316,7 @@ April NN I-PC
 1896 CARD B-NC
 . $. O
 
-Dieses PDAT B-sNP
+Dieses PDAT B-sNC
 von APPR B-PC
 Premierminister NN I-PC
 Mackenzie NE I-PC
@@ -606,7 +606,7 @@ Gemeindebezirk NN I-PC
 Mariahilf NE B-NC
 . $. O
 
-Das ART B-sNP
+Das ART B-sNC
 im APPRART B-PC
 Oktober NN I-PC
 2008 CARD I-PC
@@ -1123,7 +1123,7 @@ Daleminze NE I-PC
 ( $( O
 ... $( O
 ) $( O
-dem ART B-sNP
+dem ART B-sNC
 von APPR B-PC
 Uns PPER I-PC
 gestifteten ADJA B-AC
@@ -1283,7 +1283,7 @@ im APPRART B-PC
 Jahr NN I-PC
 1588 CARD B-NC
 wurde VAFIN O
-das ART B-sNP
+das ART B-sNC
 bis APPR B-PC
 dahin PAV I-PC
 existierende ADJA B-NC
@@ -1296,7 +1296,7 @@ Leisnig NE B-NC
 integriert VVPP O
 . $. O
 
-Das ART B-sNP
+Das ART B-sNC
 offensichtlich ADV B-ADVC
 seit APPR B-PC
 längerer ADJA I-PC

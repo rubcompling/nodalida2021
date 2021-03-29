@@ -1,6 +1,6 @@
 Kurtzer ADJA B-NC
 Bericht NN I-NC
-Von APPR B-sPP
+Von APPR B-sPC
 der ART B-NC
 Fruchtbringenden ADJA I-NC
 Geſellſchafft NN I-NC
@@ -62,7 +62,7 @@ worden VAPP O
 / $( O
 nachfolgendes NN B-NC
 kuͤrtzlich ADV B-ADVC
-zu APPR B-sPP
+zu APPR B-sPC
 jedes PIAT B-NC
 begehrenden NN I-NC
 underricht NN B-PC
@@ -81,12 +81,12 @@ im APPRART B-PC
 Jahr NN I-PC
 1617 CARD B-NC
 . $. O
-bey APPR B-sPP
-einer ART I-sPP
-vornehmen ADJA I-sPP
-/ $( I-sPP
-wiewol KON I-sPP
-trawrigen ADJA I-sPP
+bey APPR B-sPC
+einer ART I-sPC
+vornehmen ADJA I-sPC
+/ $( I-sPC
+wiewol KON I-sPC
+trawrigen ADJA I-sPC
 Fuͤrſtlicher ADJA B-NC
 und KON I-NC
 Adelicher ADJA I-NC
@@ -130,7 +130,7 @@ Sitten NN I-NC
 als KOKOM B-NC
 nuͤtzlicher ADJA I-NC
 außuͤbung NN I-NC
-jedes PIAT B-sNP
+jedes PIAT B-sNC
 Volcks NN B-NC
 Lands NN B-NC
 Sprachen NN B-NC
@@ -276,7 +276,7 @@ Vaterlands NN I-NC
 / $( O
 durch APPR B-PC
 anleitung NN I-PC
-der ART B-sNP
+der ART B-sNC
 darzu PAV B-PC
 erkornen ADJA B-NC
 uͤberfluͤſſigen ADJA I-NC
@@ -328,7 +328,7 @@ richten VVINF O
 / $( O
 ſondern KON O
 auch ADV B-ADVC
-ein ART B-sNP
+ein ART B-sNC
 darzu PAV B-PC
 bequemes ADJA B-NC
 Gemaͤhld NN I-NC
@@ -336,7 +336,7 @@ jhnen PPER B-NC
 wehlen VVINF O
 / $( O
 und KON O
-ein ART B-sNP
+ein ART B-sNC
 darauff PAV B-PC
 ſich PRF B-NC
 wolſchickendes ADJA B-NC
@@ -718,7 +718,7 @@ jedweder PIS B-NC
 aus APPR B-PC
 mehrgemelter ADJA I-PC
 Geſellſchafft NN I-PC
-deren PDAT B-sNP
+deren PDAT B-sNC
 in APPR B-PC
 gold NN I-PC
 geſchmeltztes ADJA B-NC
@@ -779,8 +779,8 @@ vermehret VVFIN O
 giebet VVFIN O
 angefuͤgtes ADJA B-NC
 verzeichnuͤß NN I-NC
-nechſt APPR B-sPP
-der ART I-sPP
+nechſt APPR B-sPC
+der ART I-sPC
 darauff PAV B-PC
 in APPR B-PC
 Reim NN I-PC
@@ -788,7 +788,7 @@ verfaſten ADJA B-PC
 erklaͤrung NN I-PC
 / $( O
 und KON O
-die ART B-sNP
+die ART B-sNC
 darnach PAV B-PC
 verfertigte ADJA B-AC
 und KON O

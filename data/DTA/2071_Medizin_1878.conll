@@ -212,8 +212,8 @@ beschränken VVINF O
 Diese PDS B-NC
 haben VAFIN O
 mich PPER B-NC
-zu APPR B-sPP
-positiven ADJA I-sPP
+zu APPR B-sPC
+positiven ADJA I-sPC
 und KON O
 , $, O
 wie KOUS O
@@ -267,8 +267,8 @@ zu PTKZU O
 sein VAINF O
 scheint VVFIN O
 , $, O
-nach APPR B-sPP
-der ART I-sPP
+nach APPR B-sPC
+der ART I-sPC
 bei APPR B-PC
 meinen PPOSAT I-PC
 Versuchen NN I-PC
@@ -317,7 +317,7 @@ zu PTKZU O
 erzeugen VVINF O
 , $, O
 welche PRELS B-NC
-den ART B-sNP
+den ART B-sNC
 beim APPRART B-PC
 Menschen NN I-PC
 beobachteten ADJA B-NC
@@ -398,7 +398,7 @@ mir PPER B-NC
 deswegen PAV B-PC
 nothwendig ADJD B-AC
 , $, O
-die ART B-sNP
+die ART B-sNC
 bis APPR B-PC
 jetzt ADV I-PC
 gewonnenen ADJA B-NC
@@ -409,7 +409,7 @@ veröffentlichen VVINF O
 
 In APPR B-PC
 Betreff NN I-PC
-der ART B-sNP
+der ART B-sNC
 dieser PDAT B-NC
 Schrift NN I-NC
 beigegebenen ADJA B-NC
@@ -481,7 +481,7 @@ ich PPER B-NC
 die ART B-NC
 Verpflichtung NN I-NC
 , $, O
-die ART B-sNP
+die ART B-sNC
 bei APPR B-PC
 den ART I-PC
 Wundinfectionskrankheiten NN I-PC
@@ -607,7 +607,7 @@ durch APPR B-PC
 farbige ADJA I-PC
 Gläser NN I-PC
 Bilder NN B-NC
-von APPR B-sPP
+von APPR B-sPC
 mit APPR B-PC
 blauer ADJA I-PC
 und KON I-PC
@@ -832,8 +832,8 @@ lässt VVFIN O
 sie PPER B-NC
 gewöhnlich ADJD B-AC
 nur ADV B-ADVC
-für APPR B-sPP
-die ART I-sPP
+für APPR B-sPC
+die ART I-sPC
 den ART B-NC
 Chirurgen NN I-NC
 speciell ADJD B-PC
@@ -879,8 +879,8 @@ dass KOUS O
 auch ADV B-ADVC
 das ART B-NC
 Puerperalfieber NN I-NC
-als KOKOM B-sNP
-eine ART I-sNP
+als KOKOM B-sNC
+eine ART I-sNC
 von APPR B-PC
 der ART I-PC
 Placentar¬<lb/>wundstelle NN I-PC

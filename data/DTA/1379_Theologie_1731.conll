@@ -52,7 +52,7 @@ genannt VVPP O
 befeſtiget VVFIN O
 / $( O
 daß KOUS O
-die ART B-sNP
+die ART B-sNC
 dahin PAV B-PC
 gehoͤrige ADJA B-NC
 Warheiten NN I-NC
@@ -150,7 +150,7 @@ vom APPRART B-NC
 Dannebrog NE I-NC
 Rittern NN B-NC
 / $( O
-Jhro PPOSAT B-sNP
+Jhro PPOSAT B-sNC
 zu APPR B-PC
 Daͤnnemarck NE I-PC
 Norwegen NE I-PC
@@ -199,8 +199,8 @@ EW PPOSAT B-NC
 Excellence NN I-NC
 uͤberreiche VVFIN O
 ich PPER B-NC
-nach APPR B-sPP
-der ART I-sPP
+nach APPR B-sPC
+der ART I-sPC
 unter APPR B-PC
 denen PDAT I-PC
 Gelehrten NN I-PC
@@ -212,7 +212,7 @@ Schrift NN I-NC
 als KOKOM B-NC
 einen ART I-NC
 Beweiß NN I-NC
-meiner PPOSAT B-sNP
+meiner PPOSAT B-sNC
 gegen APPR B-PC
 Deroſelben PDAT I-PC
 tragenden ADJA B-NC
@@ -237,8 +237,8 @@ Glaubens-Lehren NN I-NC
 unſerer PPOSAT B-NC
 Evangeliſchen ADJA I-NC
 Kirchen NN I-NC
-gegen APPR B-sPP
-einem ART I-sPP
+gegen APPR B-sPC
+einem ART I-sPC
 zur APPRART B-PC
 Genuͤge NN I-PC
 bekannten ADJA B-PC

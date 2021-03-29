@@ -326,8 +326,8 @@ eiuzeler ADJA I-NC
 Dinge NN I-NC
 , $, O
 die PRELS B-NC
-durch APPR B-sPP
-keine PIAT I-sPP
+durch APPR B-sPC
+keine PIAT I-sPC
 in APPR B-PC
 die ART I-PC
 Augen NN I-PC
@@ -749,7 +749,7 @@ bis APPR B-PC
 zur APPRART I-PC
 praͤchtigen ADJA I-PC
 Faßade NN I-PC
-eines ART B-sNP
+eines ART B-sNC
 auf APPR B-PC
 corinthiſchen ADJA I-PC
 Saͤulen NN I-PC

@@ -21,7 +21,7 @@ Glaucha NE I-PC
 , $, O
 Durch APPR B-PC
 Edirung NN I-PC
-Der ART B-sNP
+Der ART B-sNC
 Jhm PPER B-NC
 gehaltenen ADJA B-NC
 Leichen- NN I-NC
@@ -368,7 +368,7 @@ Petrus NE B-NC
 wenn KOUS O
 er PPER B-NC
 , $, O
-in APPR B-sPP
+in APPR B-sPC
 ſeinem PPOSAT B-NC
 und KON I-NC
 anderer ADJA I-NC
@@ -430,7 +430,7 @@ euch PPER B-NC
 , $, O
 die PRELS B-NC
 ihr PPER B-NC
-aus APPR B-sPP
+aus APPR B-sPC
 GOTTES NN B-NC
 Macht NN B-PC
 durch APPR B-PC

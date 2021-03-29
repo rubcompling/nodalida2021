@@ -218,9 +218,9 @@ hübſchen ADJA I-NC
 Mädchens NN I-NC
 , $, O
 die PRELS B-NC
-in APPR B-sPP
-ihrem PPOSAT I-sPP
-dunkelblauen ADJA I-sPP
+in APPR B-sPC
+ihrem PPOSAT I-sPC
+dunkelblauen ADJA I-sPC
 , $, O
 vom APPRART B-PC
 Regen NN I-PC
@@ -516,7 +516,7 @@ hatte VAFIN O
 den ART B-NC
 Abend NN I-NC
 vorher ADV B-ADVC
-den ART B-sNP
+den ART B-sNC
 zu APPR B-PC
 Herrn NN I-PC
 O’ NE B-NC
@@ -714,7 +714,7 @@ Pferde NN I-NC
 bekommen VVINF O
 , $, O
 denn KON O
-das ART B-sNP
+das ART B-sNC
 nach APPR B-PC
 Glengariff NE I-PC
 gebrauchte NN B-NC

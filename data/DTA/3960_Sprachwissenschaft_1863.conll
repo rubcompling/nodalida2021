@@ -104,8 +104,8 @@ Willen NN I-NC
 gethan VVPP O
 und KON O
 mich PRF B-NC
-durch APPR B-sPP
-das ART I-sPP
+durch APPR B-sPC
+das ART I-sPC
 einiger PIAT B-NC
 Maassen NN I-NC
 unbeholfen ADJD B-AC
@@ -157,7 +157,7 @@ glückte VVFIN O
 mich PPER B-NC
 zum APPRART B-PC
 Studium NN I-PC
-dieses PDAT B-sNP
+dieses PDAT B-sNC
 ohne APPR B-PC
 Zweifel NN I-PC
 bedeutenden ADJA B-NC
@@ -411,7 +411,7 @@ welchem PRELS I-PC
 die ART B-NC
 deutsche ADJA I-NC
 Uebersetzung NN I-NC
-von APPR B-sPP
+von APPR B-sPC
 Darwins NE B-NC
 Werk NN B-PC
 erschien VVFIN O
@@ -453,7 +453,7 @@ den ART B-NC
 Ausdruck NN I-NC
 abgerechnet VVPP O
 , $, O
-mit APPR B-sPP
+mit APPR B-sPC
 Darwins NE B-NC
 Ansichten NN B-PC
 in APPR B-PC

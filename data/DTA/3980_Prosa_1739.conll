@@ -17,7 +17,7 @@ eines ART B-NC
 gebohrnen ADJA I-NC
 Sachſens NN I-NC
 , $, O
-ſeines PPOSAT B-sNP
+ſeines PPOSAT B-sNC
 , $, O
 im APPRART B-PC
 Jahr NN I-PC
@@ -27,7 +27,7 @@ erfolgten ADJA B-NC
 Todes NN I-NC
 , $, O
 und KON O
-ſeiner PPOSAT B-sNP
+ſeiner PPOSAT B-sNC
 auf APPR B-PC
 der ART I-PC
 Jnſul NN I-PC
@@ -49,7 +49,7 @@ gebrachten ADJA B-NC
 Colonien NN I-NC
 , $, O
 entworffen VVPP O
-von APPR B-sPP
+von APPR B-sPC
 des ART B-NC
 Bruders-Sohnes-Sohnes-Sohne NN I-NC
 , $, O
@@ -61,7 +61,7 @@ Julio NE I-NC
 Curieuſen ADJA B-NC
 Leſern NN I-NC
 aber ADV B-ADVC
-zum APPRART B-sPP
+zum APPRART B-sPC
 vermuthlichen ADJA B-NC
 Gemuͤths NN I-NC
 . $. O
@@ -667,7 +667,7 @@ Urtheils-Spruch NN I-NC
 uͤber APPR B-PC
 Giſandern NE I-PC
 und KON O
-deſſen PRELAT B-sNP
+deſſen PRELAT B-sNC
 heraus PAV B-PC
 gekommene ADJA B-NC
 2. CARD I-NC
