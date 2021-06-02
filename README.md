@@ -2,7 +2,7 @@
 
 This repository contains the manually annotated data sets and additional material for the paper:
 
-Katrin Ortmann (to appear). Chunking Historical German. Reykjavik, Iceland (online).
+Katrin Ortmann (2021). Chunking Historical German. In *Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa)*, Reykjavik, Iceland (online), pages 190–199. [PDF](https://www.aclweb.org/anthology/2021.nodalida-main.19)
 
 ## Gold data
 
